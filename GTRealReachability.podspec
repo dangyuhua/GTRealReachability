@@ -6,8 +6,8 @@
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
 #
 Pod::Spec.new do |s|
-  s.name         = "RealReachability"
-  s.version      = "1.88.88"
+  s.name         = "GTRealReachability"
+  s.version      = "0.0.1"
   s.summary      = "We need to observe the REAL reachability of network for iOS. That's what RealReachability do."
 
 
